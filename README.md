@@ -1,5 +1,9 @@
-I am a 4th year student at Van Yüzüncü Yıl University, Department of Architecture, and I am also interested in software and coding. I develop web software projects using ASP.NET C# languages. I received 7 months of specialist training in the field of software in Van and gained extensive knowledge during this process.
-<!---
+
+As a 4th year student at Van Yüzüncü Yıl University, Department of Architecture, I am not only limited to architecture but also draw attention with my interest in software and coding. I develop web software projects using ASP.NET C# languages ​​and constantly improve myself in this field. Additionally, thanks to the 7-month specialist training I received in Van, I gained comprehensive knowledge in the field of software and further reinforced my technical skills in the process.
+
+As a student who is passionate about the field of architecture, open to innovation and willing to constantly learn, I make a determined effort to improve my creative abilities and technical skills at the highest level. I gained extensive experience in architectural projects by successfully using leading software in the industry such as SketchUp, 3ds Max, Photoshop and Revit. With the deep knowledge and skills I have gained in 3D modeling, visualization and project management, I approach each project from a unique perspective and take care to achieve a perfect balance between aesthetics and function.
+
+At the same time, I closely follow current trends and technological innovations in the discipline of architecture and take care to integrate this information into my projects. Inspired by different disciplines such as art, architectural history and culture, I try to put forward creative and impressive solutions in my designs. While I strive to constantly improve myself and progress, I also aim to rise to leadership positions in my profession. I work determinedly to turn my architectural vision into reality and leave a permanent mark on the industry, and I continue to progress every day.
 ArchicoderYusuf/ArchicoderYusuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
